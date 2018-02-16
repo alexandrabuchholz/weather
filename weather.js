@@ -64,8 +64,8 @@ let handleWeatherResponse = function(response) {
           $(".forecast").append(html);
     }
 
-    $(".current").fadeIn();
-    $(".forecast").fadeIn();
+  $(".current").fadeIn();
+  $(".forecast").fadeIn();
 
   // *** your code ends here -- really.
 };
